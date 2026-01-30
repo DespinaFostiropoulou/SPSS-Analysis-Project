@@ -1,4 +1,4 @@
-# Statistical Analysis with SPSS  
+# 📊 Statistical Analysis with SPSS  
 ### Author: Fostiropoulou Despoina
 
 This repository contains the SPSS statistical analysis project completed as part of the postgraduate course **“Statistical Analysis Tools”**.  
