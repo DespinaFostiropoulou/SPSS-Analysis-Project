@@ -1,0 +1,6 @@
+﻿* Encoding: UTF-8.
+
+T-TEST GROUPS=e01(1 2)
+  /MISSING=ANALYSIS
+  /VARIABLES=ε08
+  /CRITERIA=CI(.95).

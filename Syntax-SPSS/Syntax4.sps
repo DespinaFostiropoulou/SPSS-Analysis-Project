@@ -1,0 +1,7 @@
+﻿* Encoding: UTF-8.
+
+T-TEST
+  /TESTVAL=22
+  /MISSING=ANALYSIS
+  /VARIABLES=ε08
+  /CRITERIA=CI(.95).
