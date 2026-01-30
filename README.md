@@ -40,9 +40,12 @@ Variables tested:
 All three variables visually follow a normal distribution, as their values align closely with the diagonal reference line.
 
 **Images:**  
-
-
-
+![Picture.1](Picture1.png) 
+![Picture2](Picture2.png) 
+![Picture3](Picture3.png) 
+![Picture4](Picture4.png) 
+![Picture5](Picture5.png) 
+![Picture6](Picture6.png) 
 
 ---
 
@@ -59,10 +62,7 @@ All p‑values > 0.05 → **H0 is accepted**.
 The variables follow a normal distribution.
 
 **Image:**  
-
-
-
-
+![Picture7](Picture7.png) 
 
 ---
 
@@ -78,10 +78,10 @@ Two tests were performed to compare the sample’s annual salary with:
 - Comparison with 10,000€ → p < 0.05 → **Significant difference**
 
 **Images:**  
-
-
-
-
+![Picture8](Picture8.png) 
+![Picture9](Picture9.png) 
+![Picture10](Picture10.png) 
+![Picture11](Picture11.png) 
 
 ---
 
@@ -97,10 +97,17 @@ Due to low expected frequencies, variables were recoded into binary categories.
 In both cases, p > 0.05 → **No association** between gender and bullying-related variables.
 
 **Images:**  
-
-
-
-
+![Picture12](Picture12.png) 
+![Picture13](Picture13.png) 
+![Picture14](Picture14.png) 
+![Picture15](Picture15.png) 
+![Picture16](Picture16.png) 
+![Picture17](Picture17.png) 
+![Picture18](Picture18.png) 
+![Picture19](Picture19.png) 
+![Pictire20](Picture20.png) 
+![Picture21](Picture21.png) 
+![Picture22](Picture22.png) 
 
 ---
 
@@ -114,10 +121,11 @@ Tested whether annual income differs based on:
 All p‑values > 0.05 → **No statistically significant differences**.
 
 **Images:**  
-
-
-
-
+![Picture23](Picture23.png) 
+![Picture24](Picture24.png) 
+![Picture25](Picture25.png) 
+![Picture26](Picture26.png) 
+![Picture27](Picture27.png) 
 
 ---
 
@@ -129,10 +137,8 @@ Compared the mean annual salary between **men** and **women**.
 p > 0.05 → **No significant difference** in salary based on gender.
 
 **Image:**  
-
-
-
-
+![Picture28](Picture28.png) 
+![Picture29](Picture29.png) 
 
 ---
 
@@ -146,10 +152,7 @@ Tested the linear relationship between:
 Pearson r = −0.259, p > 0.05 → **No linear correlation**.
 
 **Image:**  
-
-
-
-
+![Picture30](Picture30.png) 
 
 ---
 
@@ -179,7 +182,5 @@ Y = 44.334
 Experience has a positive effect on salary, though the strength of the relationship depends on the dataset.
 
 **Image:**  
-
-
-
-
+![Picture31](Picture31.png) 
+![Picture32](Picture32.png) 
